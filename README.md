@@ -19,3 +19,8 @@ AnyDesk is a legitimate remote access tool, but it can be exploited by hackers o
 2. Install the required Python libraries:
    ```bash
    pip install psutil colorama
+3. To use the email feature:
+   ```Rename the email names in the script to your correct email accounts.
+   ```Create an environment variable with your SMTP email account password and replace the code with the correct variable name.
+
+   
